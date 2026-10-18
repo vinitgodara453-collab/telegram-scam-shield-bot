@@ -1,0 +1,6 @@
+{
+  "name": "Telegram AI Scam Shield - Anti-Scam Bot & VPS Suite",
+  "description": "Production Telegram Anti-Scam Bot with Telegram Premium Emojis, automated scam report aggregation, direct VPS 24/7 deployment, and GitHub repo publisher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
